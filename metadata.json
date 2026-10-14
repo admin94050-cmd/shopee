@@ -1,0 +1,6 @@
+{
+  "name": "ShopOrange Thai E-Commerce",
+  "description": "Authentic Shopee-style Thai mobile e-commerce platform featuring Mega Day flash sales, dynamic cart management, and seamless authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
